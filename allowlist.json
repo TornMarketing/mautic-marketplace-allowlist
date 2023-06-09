@@ -46,6 +46,12 @@
             "display_name": "Bitly Bundle",
             "minimum_mautic_version": "5.0.0",
             "maximum_mautic_version": null
+        },
+        {
+            "package": "TornMarketing/Mautic-Custom-Navlinks",
+            "display_name": "Mautic-Custom-Navlinks",
+            "minimum_mautic_version": "1.0.0",
+            "maximum_mautic_version": null
         }
     ]
 }
